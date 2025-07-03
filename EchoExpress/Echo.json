@@ -1,0 +1,15 @@
+{
+	"id": "Echo Express",
+	"name": "All Aboard the Echo Express!",
+	"display_name": "Echo Express",
+	"author": [
+		"Razzle Dazzle Salazzle"
+	],
+	"description": "This really is an All Aboard the Echo Express!",
+	"prefix": "echo",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "2F2528",
+	"badge_text_colour": "E05A82",
+	"version": "1.0"
+}
